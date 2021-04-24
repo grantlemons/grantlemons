@@ -9,3 +9,14 @@ I'm probably most comfortable with C++ because of all the Arduino projects I've 
 
 I'd like to be more active on github but I don't have that many projects to work on / an busy with my schoolwork.
 However, [my father](https://github.com/brentlemons) and I have a project to work on where we would hopefully [create our own drone using arduino](https://github.com/brentlemons/drone-telemetry)
+
+I have a VSCode Extention that colors comments depending on suffixes\
+Here is the key:\
+//--------------------//\
+    * = Important\
+    ! = Warning\
+    ? = Question\
+    TODO = To Do\
+  //// = Strikethrough\
+//--------------------//\
+[Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments\)
