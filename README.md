@@ -19,4 +19,4 @@ Here is the key:\
     TODO = To Do\
   //// = Strikethrough\
 //--------------------//\
-[Link]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments\
+[Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments\)
