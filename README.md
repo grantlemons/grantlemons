@@ -20,3 +20,4 @@ Here is the key:\
   //// = Strikethrough\
 //--------------------//\
 [Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments\)
+---
