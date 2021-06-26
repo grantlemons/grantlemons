@@ -5,6 +5,8 @@ My favorite languages are:
 *    [Python](https://github.com/grantlemons?tab=repositories&q=&type=&language=python&sort=)
 *    and [Java](https://github.com/grantlemons?tab=repositories&q=&type=&language=java&sort=)!
 
+I'm trying to learn [Rust](https://github.com/grantlemons?tab=repositories&q=&type=&language=rust&sort=) right now as well!
+
 I'm probably most comfortable with C++ because of all the Arduino projects I've done, but if I was going to make a new project and I had the choice I'd probably default to Python.
 
 I'd like to be more active on github but I don't have that many projects to work on / an busy with my schoolwork.
