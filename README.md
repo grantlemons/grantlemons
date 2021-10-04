@@ -12,7 +12,7 @@ However, [my father](https://github.com/brentlemons) and I have a project to wor
 
 ---
 
-I have a [VSCode Extention](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) that colors comments depending on prefixes\
+I use a [VSCode Extention](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) that colors comments depending on prefixes\
 Here is the key:  
 //--------------------//\
    * = Important\
