@@ -8,7 +8,7 @@ My favorite languages are:
 I'm probably most comfortable with C++ because of all the Arduino projects I've done, but if I was going to make a new project and I had the choice I'd probably default to Python. (I think I'm also better at Python since my cpp is limited to arduino projects)
 
 I'd like to be more active on github but I don't have that many projects to work on / an busy with my schoolwork.
-However, [my father](https://github.com/brentlemons) and I have a project to work on where we would hopefully [create our own drone using arduino](https://github.com/brentlemons/drone-telemetry)
+However, [my father](https://github.com/brentlemons) and I have a project to work on where we would hopefully [create our own drone using arduino](https://github.com/brentlemons/drone-telemetry) and a [render farm based on AWS Elastic Container Service](https://github.com/brentlemons/amazon-ecs-blender-farm) for Blender animations.
 
 ---
 
