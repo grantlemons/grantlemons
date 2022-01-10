@@ -1,4 +1,4 @@
-## I'm Grant, a high school student in Dallas Texas that enjoys coding.
+## I'm Grant, a high school student in Dallas, Texas that enjoys coding.
 
 My favorite languages are:
 *    [C++](https://github.com/grantlemons?tab=repositories&q=&type=&language=c%2B%2B&sort=)
