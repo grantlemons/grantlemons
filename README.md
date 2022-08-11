@@ -3,8 +3,7 @@
 My favorite languages are:
 *    [C++](https://github.com/grantlemons?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 *    [Python](https://github.com/grantlemons?tab=repositories&q=&type=&language=python&sort=)
-*    [Rust](https://github.com/grantlemons?tab=repositories&q=&type=&language=rust&sort=)
-*    and [Java](https://github.com/grantlemons?tab=repositories&q=&type=&language=java&sort=)!
+*    and [Rust](https://github.com/grantlemons?tab=repositories&q=&type=&language=rust&sort=)!
 
 I'm currently learning Rust, which has been super fun and its system of borrowing has provided a challenging new way for me to approach problems.
 
