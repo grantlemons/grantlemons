@@ -3,21 +3,10 @@
 My favorite languages are:
 *    [C++](https://github.com/grantlemons?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 *    [Python](https://github.com/grantlemons?tab=repositories&q=&type=&language=python&sort=)
+*    [Rust](https://github.com/grantlemons?tab=repositories&q=&type=&language=rust&sort=)
 *    and [Java](https://github.com/grantlemons?tab=repositories&q=&type=&language=java&sort=)!
 
-I'm probably most comfortable with C++ because of all the Arduino projects I've done, but if I was going to make a new project and I had the choice I'd probably default to Python. (I think I'm also better at Python since my cpp is limited to arduino projects)
+I'm currently learning Rust, which has been super fun and its system of borrowing has provided a challenging new way for me to approach problems.
 
 I'd like to be more active on github but I don't have that many projects to work on / an busy with my schoolwork.
-However, [my father](https://github.com/brentlemons) and I have a project to work on where we would hopefully [create our own drone using arduino](https://github.com/brentlemons/drone-telemetry) and a [render farm based on AWS Elastic Container Service](https://github.com/brentlemons/amazon-ecs-blender-farm) for Blender animations.
-
----
-
-I use a [VSCode Extention](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) that colors comments depending on prefixes\
-Here is the key:  
-//--------------------//\
-   * = Important\
-   ! = Warning\
-   ? = Question\
-   TODO = To Do\
- //// = Strikethrough\
-//--------------------//
+Currently the [main project](https://github.com/grantlemons/waterlevel) I'm working on is a combination IOT and Backend API project to measure and analyze the water level in my pool so it can be used in the future for a smart refilling solution.
