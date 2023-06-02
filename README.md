@@ -1,9 +1,4 @@
-## I'm Grant, a high school student in Dallas, Texas that enjoys coding.
-
-My favorite languages are:
-*    [C++](https://github.com/grantlemons?tab=repositories&q=&type=&language=c%2B%2B&sort=)
-*    [Python](https://github.com/grantlemons?tab=repositories&q=&type=&language=python&sort=)
-*    and [Rust](https://github.com/grantlemons?tab=repositories&q=&type=&language=rust&sort=)!
+## I'm Grant
 
 I'm currently learning Rust, which has been super fun and its system of borrowing has provided a challenging new way for me to approach problems.
 
