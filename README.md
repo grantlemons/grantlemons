@@ -1,1 +1,1 @@
-### I'm Grant, a Freshman at The Colorado School of Mines.
+### I'm Grant, a Sophomore(ish) at The Colorado School of Mines.
